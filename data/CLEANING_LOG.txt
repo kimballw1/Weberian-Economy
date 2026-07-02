@@ -1,0 +1,10 @@
+BUILD
+Religion/control base (FIPS-keyed, DNE->NaN, dup col dropped): 3057 counties
+BDS pre-COVID(2015-19) matched on FIPS: 3053/3057
+
+VALIDATION
+density==churches/pop(1990): max gap 0.0050
+church_density_2020: n=3057, range[0.00,37.04]
+birthrate_pc_1519: n=3053, range[0.00,57.55]
+entryrate_1519: n=3053, range[0.00,31.28]
+Index_v2: n=3057, range[-1.71,3.44]
