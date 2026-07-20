@@ -14,7 +14,7 @@ continuity** — religious institutions that endured across generations — pred
 
 ---
 
-## The argument in one paragraph
+## The argument
 
 Agglomeration theories predict that new firms cluster where population and density
 are high. Yet many small, slow-growing counties consistently outperform their
