@@ -7,11 +7,7 @@ The main finding: among U.S. counties that look alike today in size, income, and
 
 ---
 
-<<<<<<< HEAD
-## The idea
-=======
 ## The argument
->>>>>>> 5ec9391bde2d82b2d33ce0fbbacf6b117c8560a9
 
 Agglomeration theories predict that new firms cluster where population and density are high. Yet many small, slow-growing counties consistently outperform their demographic weight in new establishment births. This project proposes one explanation: institutional depth rather than demographic breadth. Following a Weberian view, counties where churches remained continuously active across the twentieth century accumulated the human capital, trust, and civic infrastructure that entrepreneurship draws on. To test this, the paper builds a church persistence index from county congregation counts in 1890, 1990, 2010, and 2020, and relates it to new establishment births from the Census Business Dynamics Statistics.
 
